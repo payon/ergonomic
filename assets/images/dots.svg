@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="30px"
+   height="30px"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="dots.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="27.7"
+     inkscape:cx="15"
+     inkscape:cy="15.018051"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+  <title
+     id="title2">Artboard</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="Artboard"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="dot-start">
+      <rect
+         id="Rectangle"
+         x="0"
+         y="0"
+         width="29"
+         height="29" />
+      <circle
+         id="Oval"
+         fill="#000000"
+         fill-rule="nonzero"
+         cx="28.5"
+         cy="1.5"
+         r="1.5" />
+    </g>
+  </g>
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+     d=""
+     id="path1059" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+     d="M 28.149672,2.9412373 C 27.915202,2.8823579 27.648123,2.7250392 27.455675,2.5324494 26.799289,1.8755802 26.914363,0.77460307 27.691934,0.27203519 c 0.993198,-0.64193497 2.271965,0.0482044 2.271965,1.22615971 0,0.6204477 -0.364365,1.1549424 -0.938628,1.3768951 -0.223568,0.086409 -0.662781,0.1195894 -0.875599,0.066147 z"
+     id="path1135" />
+  <rect
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd"
+     id="rect1276"
+     width="3.0685923"
+     height="2.9963899"
+     x="26.931408"
+     y="0.036101084" />
+</svg>
